@@ -1,0 +1,140 @@
+body{
+    background-image: url(Img/Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+}
+
+.anime-news{
+    
+}
+
+.anime-news h1{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.anime-news h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anime-news p{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-size: 18px;
+}
+
+.anime-realise{
+    background:rgba(0, 0, 0, 0.5);
+    height: 550px;
+margin-left: 100px;
+margin-right: 55px;
+border-radius: 40px;
+}
+
+.anime-realise h2{
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 15px;
+color: white;
+}
+
+.dr-stone{
+
+}
+
+.dr-stone h3{
+    color: white;
+display: flex;
+justify-content: left;
+margin-top: -450px;
+padding-left: 145px;
+margin-top: -510px;
+max-width: 300px;
+text-align: center;
+}
+
+.dr-stone-image{
+    max-width: 300px;
+    margin-left: 143px;
+    margin-top: -10px;
+}
+
+.detail{
+    margin-top:-380px;
+    margin-left: -50px;
+}
+
+.detail p{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 555px;
+    max-width: 850px;
+}
+
+.anime-realise2{
+    background:rgba(0, 0, 0, 0.5);
+    height: 595px;
+margin-left: 100px;
+margin-right: 55px;
+margin-top: 165px;
+border-radius: 40px;
+}
+
+.anime-realise2 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    color: white;
+    }
+
+.seishunbutayarousantaclausnoyumewominai{
+    
+}
+
+.seishunbutayarousantaclausnoyumewominai h3{
+    color: white;
+display: flex;
+justify-content: left;
+margin-top: -450px;
+padding-left: 145px;
+margin-top: -550px;
+max-width: 300px;
+text-align: center;
+}
+
+.seishunbutayarousantaclausnoyumewominai-image{
+    max-width: 300px;
+    margin-left: 143px;
+    margin-top: -10px;
+}
+
+.detail2 {
+    margin-top:-470px;
+    margin-left: -50px;
+}
+
+.detail2 p{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 555px;
+    max-width: 850px;
+}
+    
+   
+

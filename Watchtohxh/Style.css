@@ -1,0 +1,110 @@
+body{
+    background: black;
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
+
+.main-page{
+    margin-top: -695px;
+    margin-left: 15px;
+}
+
+.main-page a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    background: white;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: px;
+    padding-bottom: 3px;
+}
+
+video{
+    max-width: 900px;
+}
+
+.hunterxhunter-titles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+color: black;
+background: white;
+max-width: 370px;
+max-height: 40px;
+font-size: 14px;
+margin-top: -570px;
+margin-left: 255px;
+}
+
+
+.hunterxhunter-subtitle{
+margin-top: 510px;
+margin-left: 720px;
+color: white;
+}
+
+.episodesandseasons{
+margin-top: -5px;
+margin-left: -55px;
+
+
+}
+
+
+
+ .list-episodesandseasons ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    text-decoration: none;
+ }
+
+ .list-episodesandseasons li{
+    padding-left: 15px;
+ }
+
+ .list-episodesandseasons a{
+    list-style-type: none;
+    text-decoration: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: black;
+    background: white;
+ }
+
+ .availabilityofallseasonsandepisodes{
+margin-left: 715px;
+margin-top: 18px;
+ }
+
+
+ .availabilityofallseasonsandepisodes a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    background: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+ }
+

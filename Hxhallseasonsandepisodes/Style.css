@@ -1,0 +1,98 @@
+body{
+    background: black;
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+    margin-left: -58px;
+}
+
+
+.hxh-allseasonsandepisodes{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.hxh-allseasonsandepisodes h1{
+color: white;
+margin-left: 35px;
+}
+
+
+.hunterxhunter{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.hunterxhunter h2{
+font-size:22px;
+margin-left: -20px;
+}
+
+.hunterxhunter h3{
+font-size: 19px;
+margin-left: 40px;
+}
+
+.allseasonsandepisodes-subtitle{
+color: white;
+margin-top: -25px;
+margin-bottom: 5;
+margin-left: 55px;
+}
+
+
+.list-seasonsandepisodes{
+    margin-left: -99px;
+}
+
+       
+     .list-episodesandseasons ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        list-style-type: none;
+        text-decoration: none;
+        margin-left: -1px;
+     }
+    
+     .list-episodesandseasons li{
+        padding-left: 15px;
+     }
+    
+     .list-episodesandseasons a{
+        list-style-type: none;
+        text-decoration: none;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        color: black;
+        background: white;
+     }
+    
+     .allseasonsandepisodes{
+        margin-top: -35px;
+     }
+
+     .main-page{
+        margin-top: -720px;
+        margin-left: 70px;
+     }
+
+     .linktomain-page a{
+        list-style-type: none;
+    text-decoration: none;
+    color: black;
+    background: white;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: px;
+    padding-bottom: 3px;
+     }
